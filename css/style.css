@@ -26,6 +26,15 @@ ul{
     color:#ffffff;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 75px;
+    padding-bottom:5px;
+  }
+
 .dark{
     padding:15px;
     background:#35424a;
